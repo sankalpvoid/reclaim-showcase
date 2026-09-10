@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-label="Reclaim product journey">
+  <rect width="1200" height="430" rx="26" fill="#09090c"/>
+  <rect x="1" y="1" width="1198" height="428" rx="25" fill="none" stroke="#fff" stroke-opacity="0.08"/>
+  <text x="48" y="54" fill="#8f82c8" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" letter-spacing="2.3">THE PRODUCT LOOP</text>
+  <text x="48" y="98" fill="#f3f2f6" font-family="Inter,system-ui,sans-serif" font-size="30" font-weight="750">From intention to evidence.</text>
+  <path d="M148 237H1045" stroke="#ffffff" stroke-opacity="0.10" stroke-width="2"/>
+  <g font-family="Inter,system-ui,sans-serif">
+    <g transform="translate(74 168)"><circle cx="74" cy="69" r="54" fill="#110d19" stroke="#8b6cff" stroke-opacity="0.45"/><text x="74" y="63" text-anchor="middle" fill="#f4f3f7" font-size="16" font-weight="700">Choose</text><text x="74" y="84" text-anchor="middle" fill="#918d99" font-size="12">Quit / Reduce / Track</text></g>
+    <g transform="translate(284 168)"><circle cx="74" cy="69" r="54" fill="#0d0d11" stroke="#ffffff" stroke-opacity="0.12"/><text x="74" y="63" text-anchor="middle" fill="#f4f3f7" font-size="16" font-weight="700">Check in</text><text x="74" y="84" text-anchor="middle" fill="#918d99" font-size="12">mood · progress</text></g>
+    <g transform="translate(494 168)"><circle cx="74" cy="69" r="54" fill="#0d0d11" stroke="#ffffff" stroke-opacity="0.12"/><text x="74" y="63" text-anchor="middle" fill="#f4f3f7" font-size="16" font-weight="700">Handle</text><text x="74" y="84" text-anchor="middle" fill="#918d99" font-size="12">craving · trigger</text></g>
+    <g transform="translate(704 168)"><circle cx="74" cy="69" r="54" fill="#0d0d11" stroke="#ffffff" stroke-opacity="0.12"/><text x="74" y="63" text-anchor="middle" fill="#f4f3f7" font-size="16" font-weight="700">Learn</text><text x="74" y="84" text-anchor="middle" fill="#918d99" font-size="12">patterns · insights</text></g>
+    <g transform="translate(914 168)"><circle cx="74" cy="69" r="54" fill="#110d19" stroke="#8b6cff" stroke-opacity="0.45"/><text x="74" y="63" text-anchor="middle" fill="#f4f3f7" font-size="16" font-weight="700">Adapt</text><text x="74" y="84" text-anchor="middle" fill="#918d99" font-size="12">next action</text></g>
+  </g>
+  <path d="M1035 305C971 372 217 372 153 305" fill="none" stroke="#8b6cff" stroke-opacity="0.38" stroke-width="2" stroke-dasharray="7 7"/>
+  <path d="M151 304l13 5-9 11" fill="none" stroke="#8b6cff" stroke-opacity="0.65" stroke-width="2"/>
+  <text x="600" y="386" text-anchor="middle" fill="#716d79" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" letter-spacing="1.5">LOG → UNDERSTAND → ADAPT → REPEAT</text>
+</svg>
